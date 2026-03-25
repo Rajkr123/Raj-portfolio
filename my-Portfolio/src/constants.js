@@ -121,7 +121,7 @@ export const projects = [
       "A powerful and user-friendly React.js application designed to uncover and showcase detailed GitHub profile information. Simply enter a GitHub username, and the app fetches comprehensive data, including profile stats, repositories, followers, and contributions. The intuitive interface ensures a seamless experience, making it a must-visit tool for developers and recruiters.",
     image: githubdetLogo,
     tags: ["HTML", "CSS", "JavaScript", "React JS", "API"],
-    github: "https://github.com/rajkr123/GitHub-Profile-Search-App-Using-React-JS",
+    github: "https://github.com/codingmastr/GitHub-Profile-Search-App-Using-React-JS",
     webapp: "https://githubprofiledetective.netlify.app/",
   },
  
@@ -143,7 +143,7 @@ export const projects = [
       "A productivity-boosting Chrome extension designed to help users manage and remember their daily tasks. Built using JavaScript, it offers a simple interface with reminders and task notifications to keep users on track.",
     image: taskremLogo,
     tags: ["JavaScript", "Chrome Extension", "HTML", "CSS"],
-    github: "https://github.com/rajkr123/Task-Reminder-Tool",
+    github: "https://github.com/codingmastr/Task-Reminder-Tool",
     webapp: "chrome://extensions/?id=kngheeibjnnidhfoomkpnbeghackheci",
   },
 
@@ -155,7 +155,7 @@ export const projects = [
       "An efficient background removal app built with React.js and API integration. Users can upload any image, remove the background, and download the transparent version for further use.",
     image: removebgLogo,
     tags: ["React JS", "API", "Image Processing", "HTML", "CSS", "Javascript"],
-    github: "https://github.com/rajkr123/Image-Background-Remover",
+    github: "https://github.com/codingmastr/Image-Background-Remover",
     webapp: "https://removeyourbg.netlify.app/",
   },
 ];  
